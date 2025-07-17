@@ -1,0 +1,12 @@
+Accessibility Violations Found:
+Violation: color-contrast
+Description: Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds
+Impact: serious
+Node HTML: <i class="fa fa-2x fa-sign-in"> Login</i>
+Failure Summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #ffffff, background color: #2ba6cb, font size: 24.0pt (32px), font weight: normal). Expected contrast ratio of 3:1
+Node Selector: i
+Node HTML: <a target="_blank" href="http://elementalselenium.com/">Elemental Selenium</a>
+Failure Summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+Node Selector: a[target="_blank"]

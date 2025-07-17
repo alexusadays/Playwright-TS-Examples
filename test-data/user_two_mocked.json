@@ -1,0 +1,13 @@
+{
+    "data": {
+        "id": 2,
+        "email": "test user",
+        "first_name": "test",
+        "last_name": "intercepted",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Alexusadays"
+    }
+}
